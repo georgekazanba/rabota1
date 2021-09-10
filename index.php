@@ -1,6 +1,7 @@
 <!Doctype>
 <html>
 <head>
+	#Ссылка на файл со свойствами сайта
 	<link rel="stylesheet" href="master.css">
 </head>
 <body>
