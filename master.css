@@ -1,6 +1,8 @@
+#Свойства тела сайта
 body{
 	margin:0 auto;
 }
+#Свойства верхней панели
 header{
 	background-color:#2C3E50;
 	padding: 15px 30px 15px 30px;
@@ -8,19 +10,23 @@ header{
 	justify-content: space-between;
 	margin-bottom:25px;
 }
+#Свойства логотипа
 .logo{
 	display:flex;
 	align-items:center;
 }
+#Свойство изображения логотипа
 .logo-img{
 	margin-right:15px;
 }
+#Свойство текста логотипа
 .logo-title{
 	color:white;
 	font-size:40px;
 	font-family:helvetica;
 	font-weight:bolder;
 }
+#Свойства пунктов верхней панели
 .hor-menu ul li{
 	list-style-type:none;
 	float:left;
@@ -28,6 +34,7 @@ header{
 	color:#fff;
 	font-family:arial;
 }
+#Свойства текста из пунктов верхней панели
 .hor-menu ul li a{
 	color:#6F8CA7;
 	text-decoration:none;
@@ -37,28 +44,34 @@ header{
 	padding-bottom:10px;
 	transition:all 0.5s;
 }
+#Анимация ссылок
 a:hover{
 	outline: solid 4px #6F8CA7;
 	transition:all 0.5s;
 }
+#Свойства новостных блоков
 .wrapper{
 	margin:0 auto;
 	margin-bottom:50px;
 	display:flex;
 }
+#Свойства изображений
 .content{
 	border: 6px solid #6F8CA7;
 	float:left;
 	margin-right:50px;
 	margin-left:50px;
 }
+#Свойства блока с текстом
 .sidebar{
 	float:right;
 }
+#Свойства заголовков
 .h2{
 	font-family:helvetica;
 	font-size:24px;
 }
+#Свойства текста
 .p{
 	max-width:1000px;
 	font-size:18px;
