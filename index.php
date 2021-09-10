@@ -4,11 +4,14 @@
 	<link rel="stylesheet" href="master.css">
 </head>
 <body>
+	#Шапка сайта
 	<header>
+		#Логотип
 		<div class="logo">
 			<img src="images/Logo.png" class="logo-img">
 			<span class="logo-title">Какой-то Российский BuzzFeed</span>
 		</div>
+		#Верхняя панель
 		<div class="hor-menu">
 			<ul>
 				<li><a href="">Главная</a></li>
@@ -18,6 +21,7 @@
 			</ul>
 		</div>
 	</header>
+	#Отдельные блоки на каждый заголовок
 	<div class="wrapper">
 		<div class="content">
 			<img src="images/olympicfunnygames.jpg" width="380px" height="240px">
