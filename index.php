@@ -1,7 +1,8 @@
-<!Doctype>
-<html>
+<!Doctype html>
+<html lang="ru">
 <head>
 	<!--Ссылка на файл со свойствами сайта-->
+    	<meta charset="utf-8">
 	<link rel="stylesheet" href="master.css">
 </head>
 <body>
